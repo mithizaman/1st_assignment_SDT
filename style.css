@@ -1,0 +1,57 @@
+body{
+    background-color: #1A1A1A;
+}
+
+.nav-link-color{
+    color: white;
+    font-weight: bolder;
+}
+
+.resume-button{
+    background-color: #0DCAF0; 
+}
+
+.nav-toggle-color{
+    background-color: aliceblue;
+}
+
+.banner{
+    background-color: #1A1A1A;
+}
+
+/* Custom styles to center the banner div */
+.banner {
+    display: flex;
+    justify-content: center;
+  }
+
+.banner-title{
+    font-size: 50px;
+    font-weight: bold;
+    color: #0DCAF0;
+}
+
+.banner-text{
+    color: white;
+}
+
+.Portfolio{
+    display: flex;
+    justify-content: center;
+}
+
+.Portfolio-left{
+    background-color: aliceblue;
+}
+.portfolio-skills-body{
+    display: flex;
+    justify-content: center;
+}
+.portfolio-skills{
+    background-color: aliceblue;
+    width: 80px;
+}
+.my-skills{
+    display: flex;
+    justify-content: center;
+}
